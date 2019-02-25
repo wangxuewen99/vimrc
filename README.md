@@ -23,3 +23,11 @@ vim's configure file
     :PluginInstall
     ```
 6. compile [YouCompleteMe](https://github.com/Valloric/YouCompleteMe "YouCompleteMe")
+
+# Usage
+F2: show/off line number
+F5: show/off work directory tree
+F6: turn on/off ale
+<SPACE> fold
+ctlr+g: go to definition
+ctlr+p: file search
